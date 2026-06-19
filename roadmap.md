@@ -2,39 +2,39 @@
 
 ## Phase 1: Project Generator
 
-- Принять текстовую идею.
-- Генерировать structured project brief.
-- Генерировать roadmap.
-- Генерировать public project page.
-- Добавить ручное редактирование автором.
+- Accept a text idea.
+- Generate a structured project brief.
+- Generate a roadmap.
+- Generate a public project page.
+- Allow the author to edit everything manually.
 
 ## Phase 2: Validation Layer
 
-- Добавить голосование и подписки.
-- Добавить форму feedback.
-- Добавить базовый competitor scan.
-- Добавить problem/market score.
-- Добавить validation checklist.
+- Add votes and subscriptions.
+- Add feedback forms.
+- Add a basic competitor scan.
+- Add a problem and market score.
+- Add a validation checklist.
 
 ## Phase 3: Funding Layer
 
-- Добавить donations and pledges.
-- Добавить goals and milestones.
-- Добавить прозрачный отчет использования средств.
-- Разделить donations, preorders, bounties and investment-like mechanisms.
+- Add donations and pledges.
+- Add goals and milestones.
+- Add transparent funding updates.
+- Separate donations, preorders, bounties, and investment-like mechanisms.
 
 ## Phase 4: Execution Workspace
 
-- Добавить task board.
-- Добавить роли: founder, contributor, reviewer, sponsor.
-- Добавить bounty tasks.
-- Добавить progress updates.
-- Добавить reputation for contributors.
+- Add a task board.
+- Add roles: founder, contributor, reviewer, and sponsor.
+- Add bounty tasks.
+- Add progress updates.
+- Add contributor reputation.
 
 ## Phase 5: Ecosystem Integration
 
-- Подключить idea license modes.
-- Подключить market research engine.
-- Подключить commodity problem market.
-- Подключить AI compute market for automated work.
-- Проверить P2P/cloudless architecture для переносимости проектов.
+- Connect idea license modes.
+- Connect Market Research Engine.
+- Connect Commodity Problem Market.
+- Connect AI compute tools for automated work.
+- Explore P2P or cloudless architecture for project portability.

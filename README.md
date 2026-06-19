@@ -1,72 +1,74 @@
 # Startup Sandbox Platform
 
-Startup Sandbox Platform is an automated environment for turning raw ideas into testable startup projects with infrastructure, roadmap, market validation, crowdfunding, donations, contributors, and execution tracking.
+Startup Sandbox Platform turns raw ideas into testable startup projects with a brief, roadmap, landing page, market checks, funding options, tasks, contributors, and progress tracking.
 
-## Идея простыми словами
+## Simple Description
 
-Это автоматическая песочница для стартапов. Человек приносит идею, а платформа помогает превратить ее в проект: описание, лендинг, roadmap, проверка рынка, задачи, сбор пожертвований, краудфандинг и первые участники.
+You bring an idea. The platform turns it into a project workspace: clear description, roadmap, landing page, validation plan, donation or crowdfunding page, task board, and first contributor roles.
 
-## Подробное описание
+## Full Description
 
-Многие идеи умирают между заметкой и первым тестом. Нужно описать продукт, понять рынок, сделать лендинг, собрать обратную связь, найти соавторов, проверить спрос, собрать деньги, выделить задачи и начать реализацию. Startup Sandbox Platform автоматизирует этот переход.
+Many ideas die between a note and a first test. A founder needs to explain the product, understand the market, create a landing page, collect feedback, find contributors, test demand, raise money, and start execution. Startup Sandbox Platform automates that first step.
 
-Платформа принимает сырую идею, помогает структурировать ее, создает проектное пространство, генерирует README/spec, roadmap, landing page, конкурентный анализ, список экспериментов, donation/crowdfunding page, task board and contributor roles. Идея получает не просто документ, а инфраструктуру для проверки.
+The platform takes a raw idea and creates a structured project space. It generates a project brief, roadmap, landing page, competitor notes, experiment list, funding page, task board, and contributor roles. The idea becomes more than a document. It becomes an environment where people can react, fund, join, and build.
 
-## Ключевая формула
+## Core Idea
 
-Идея должна сразу получать среду, где ее можно проверить рынком, деньгами, участниками и результатом.
+An idea should immediately get an environment where it can be tested by users, money, contributors, and real progress.
 
-## Основные сценарии
+## Main Use Cases
 
-- Автор загружает идею.
-- Платформа превращает ее в проектную карточку и публичный лендинг.
-- Система оценивает рынок и конкурентов.
-- Пользователи голосуют, донатят или подписываются.
-- Участники берут задачи.
-- Идея проходит стадии: raw, scoped, validated, funded, building, launched.
+- A founder submits a raw idea.
+- The platform creates a public project page.
+- The system checks the market and competitors.
+- Users vote, subscribe, donate, or pledge.
+- Contributors pick tasks.
+- The idea moves through stages: raw, scoped, validated, funded, building, launched.
 
-## Связанные концепции
+## Related Concepts
 
-- Commodity Problem Market: проблемы превращаются в рынки решений.
-- Idea Protection License: идеи получают attribution and shareback режим.
-- Market Research Engine: проверка коммерческой ценности.
-- AI Token Compute Market: вычисления и AI-работа как подключаемый ресурс.
-- Cloudless Market Infrastructure: P2P/protocol-first инфраструктура без одного владельца.
+- Commodity Problem Market: problems become markets for solutions.
+- Idea Protection License: ideas get attribution and shareback rules.
+- Market Research Engine: ideas get business validation.
+- AI Token Compute Market: AI work and compute become resources.
+- Cloudless Market Infrastructure: projects can become portable and less dependent on one platform owner.
 
-## Похожие проекты и отличие
+## Similar Projects And Difference
 
-- Kickstarter/Indiegogo: краудфандинг проектов, но слабее в автоматическом превращении идеи в executable startup workspace.
-- Product Hunt: discovery готовых продуктов, а не песочница ранней идеи.
-- GitHub/GitLab: хороши для кода и задач, но не дают market validation and funding layer by default.
-- Notion/Linear/Trello: рабочие пространства, но не startup-specific инфраструктура.
-- Startup accelerators: дают ручную программу, а здесь цель - программируемая песочница для большого числа идей.
+- Kickstarter and Indiegogo fund projects, but they do not automatically turn an early idea into an executable startup workspace.
+- Product Hunt helps discover launched products, not raw ideas that need validation and execution.
+- GitHub and GitLab are strong for code and tasks, but they do not include market validation and funding by default.
+- Notion, Linear, and Trello are workspaces, but not startup-specific idea-to-market systems.
+- Startup accelerators provide manual programs. This project aims to make a programmable sandbox for many ideas.
+
+The main difference is the full path from raw idea to validated project space.
 
 ## MVP
 
-- Создание проекта из текстовой идеи.
-- Автогенерация README/spec and roadmap.
-- Публичная страница идеи.
-- Голосование и сбор interested users.
-- Donations/pledges.
-- Task board.
-- Конкурентный анализ базового уровня.
+- Create a project from a text idea.
+- Generate a project brief and roadmap.
+- Generate a public idea page.
+- Collect votes and interested users.
+- Add donations or pledges.
+- Add a task board.
+- Add a basic competitor scan.
 
-## Риски
+## Risks
 
-- Платформа может производить много красивых, но мертвых проектов.
-- Краудфандинг требует доверия и прозрачности.
-- Нужно отделять идеи от мошеннических обещаний.
-- Юридические вопросы по пожертвованиям, equity and securities.
-- Сложно удержать участников после первого интереса.
+- The platform can create many polished but dead projects.
+- Crowdfunding requires trust and transparency.
+- It must separate real ideas from scams and unrealistic promises.
+- Donations, preorders, equity, and securities rules must not be mixed carelessly.
+- Keeping contributors active after the first interest is hard.
 
-## Монетизация
+## Monetization
 
-- Комиссия с donations/crowdfunding.
-- Premium workspace для авторов.
-- Платная глубокая проверка рынка.
-- Комиссия с successful bounties/tasks.
-- Enterprise sandbox для корпораций, университетов and accelerators.
+- Commission on donations or crowdfunding
+- Premium workspace for founders
+- Paid deep market research
+- Commission on successful bounties
+- Enterprise sandbox for companies, universities, and accelerators
 
-## Документы
+## Documents
 
 See [roadmap.md](roadmap.md).
